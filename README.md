@@ -6,7 +6,7 @@ Landmark Preview App prototyping
 
 Building Lists and Navigation:
 - [x] Add landmarks data and landmark model
-- [ ] Create row view
+- [x] Create row view
 - [ ] Customize the Row Preview
 - [ ] Create the List of Landmarks
 - [ ] Make the List Dynamic
